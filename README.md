@@ -20,7 +20,7 @@ with personalised feedback HR Kirk, B Vidgen, P Röttger, SA Hale - arXiv prepri
 
 具体来说,我们将采用以下技术框架:
 
-![Personalized LLM Research Assistent](./asset/framework.png)
+![Personalized LLM Research Assistent](./asset/framework.jpg)
 
 如上图所示,我们的系统由以下几个模块组成:
 
