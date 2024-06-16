@@ -19,6 +19,7 @@ with personalised feedback HR Kirk, B Vidgen, P Röttger, SA Hale - arXiv prepri
 
 ## NEWs
 
+- [2024.06.16] Counterfactual 发布 Personalized LLM Research Assistent V0.1. 
 - [2024.06.10] Personalized LLM Research
   Assistent [GPT Agent](https://chatgpt.com/share/30ba0ff4-2986-4d40-9db6-0a97b10a0b82) & [茴香豆创建的助手](https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web)
   测试发现效果一般.
