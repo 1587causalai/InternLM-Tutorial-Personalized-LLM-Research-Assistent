@@ -20,14 +20,16 @@ with personalised feedback HR Kirk, B Vidgen, P Röttger, SA Hale - arXiv prepri
 ## NEWs
 
 - [2024.06.10] Personalized LLM Research
-  Assistent [GPT Agent](...) & [茴香豆创建的助手](https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web)
+  Assistent [GPT Agent](https://chatgpt.com/share/30ba0ff4-2986-4d40-9db6-0a97b10a0b82) & [茴香豆创建的助手](https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web)
   测试发现效果一般.
+![img.png](img.png)
+
 
 ## 技术路线
 
 具体来说,我们将采用以下技术框架:
 
-![Personalized LLM Research Assistent](./asset/framework.jpg)
+![Personalized LLM Research Assistent](framework.jpg)
 
 如上图所示,我们的系统由以下几个模块组成:
 
@@ -116,12 +118,12 @@ A4. 书生·浦语大模型实战营是学习大模型全链路开发的系统�
 |:------|:------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | 第 1 节 | 书生·浦语大模型全链路开源体系               | 陈恺 </br>上海人工智能实验室青年科学家 | [视频](https://www.bilibili.com/video/BV1Vx421X72D/)                                                                                 |
 | 第 2 节 | 轻松玩转书生·浦语大模型趣味 Demo           | 神秘嘉宾                   | [文档](https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md)、[视频](https://www.bilibili.com/video/BV1AH4y1H78d/) |
-| 第 3 节 | "茴香豆"：搭建你的 RAG 智能助理	          | 神秘嘉宾                   | [文档](./huixiangdou)、[视频](https://www.bilibili.com/video/BV1QA4m1F7t4)                                                              |
-| 第 4 节 | XTuner 微调 LLM：1.8B、多模态、Agent	 | 神秘嘉宾                   | [文档](./xtuner)、[视频](https://www.bilibili.com/video/BV15m421j78d/)                                                                  |
-| 第 5 节 | LMDeploy 量化部署 LLM 实践          | 神秘嘉宾                   | [文档](./lmdeploy/README.md)、[视频](https://www.bilibili.com/video/BV1tr421x75B/)                                                      |
-| 第 6 节 | Lagent & AgentLego 智能体应用搭建	   | 神秘嘉宾                   | [文档](./agent/README.md)、[视频](https://www.bilibili.com/video/BV1Xt4217728/)                                                         |
-| 第 7 节 | OpenCompass 大模型评测实战	          | 神秘嘉宾                   | [文档](opencompass/readme.md)、[视频](https://www.bilibili.com/video/BV1Pm41127jU/)                                                     |
-| 第 8 节 | 大模型微调数据构造	                    | 神秘嘉宾                   | [文档](data_fine_tuning/data_fine_tuning.md)、[视频](https://www.bilibili.com/video/BV1Dx4y1z7Ju/)                                      |
+| 第 3 节 | "茴香豆"：搭建你的 RAG 智能助理	          | 神秘嘉宾                   | [文档](../huixiangdou)、[视频](https://www.bilibili.com/video/BV1QA4m1F7t4)                                                              |
+| 第 4 节 | XTuner 微调 LLM：1.8B、多模态、Agent	 | 神秘嘉宾                   | [文档](../xtuner)、[视频](https://www.bilibili.com/video/BV15m421j78d/)                                                                  |
+| 第 5 节 | LMDeploy 量化部署 LLM 实践          | 神秘嘉宾                   | [文档](../lmdeploy/README.md)、[视频](https://www.bilibili.com/video/BV1tr421x75B/)                                                      |
+| 第 6 节 | Lagent & AgentLego 智能体应用搭建	   | 神秘嘉宾                   | [文档](../agent/README.md)、[视频](https://www.bilibili.com/video/BV1Xt4217728/)                                                         |
+| 第 7 节 | OpenCompass 大模型评测实战	          | 神秘嘉宾                   | [文档](../opencompass/readme.md)、[视频](https://www.bilibili.com/video/BV1Pm41127jU/)                                                     |
+| 第 8 节 | 大模型微调数据构造	                    | 神秘嘉宾                   | [文档](../data_fine_tuning/data_fine_tuning.md)、[视频](https://www.bilibili.com/video/BV1Dx4y1z7Ju/)                                      |
 | 第 9 节 | 平台工具类补充课程	                    | 神秘嘉宾                   | 文档、视频                                                                                                                              |
 
 ## 📝 作业
