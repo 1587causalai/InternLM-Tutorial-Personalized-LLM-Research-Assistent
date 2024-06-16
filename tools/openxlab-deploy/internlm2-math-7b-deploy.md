@@ -154,3 +154,40 @@ gr.ChatInterface(chat,
                  ).queue(1).launch()
 
 ```
+#### 2.3.4 推送代码至 GitHub
+
+编写完应用代码，记得推动您的应用代码至 GitHub 仓库中
+
+### 2.4 部署应用
+
+本小节为在OpenXLab浦源平台中，部署写好的 chat web-ui 的应用，具体步骤如下。
+
+![deploy-openxlab](./image/deploy-openxlab.png)
+
+#### 2.4.1 创建入口
+
+创建入口在导航栏的右侧 `+ 创建` ，如下如所示：
+
+![create_step_1](./image/create_step_1.png)
+
+选择Gradio组件，开始创建
+
+![create_step_2](./image/create_step_2.png)
+
+
+#### 2.4.2 应用配置
+
+填写 Chat 应用的基础信息，包括应用的名称和应用对应的任务类型，并填入 GitHub 仓库的地址，选择硬件资源后，即可立即创建啦~
+
+![create_step_3](./image/create_step_3.png)
+
+
+**应用配置注意事项**
+
+1. **GitHub 授权**：若未进行 GitHub 授权,请先前往授权
+2. **自定义启动文件**：若您有需要自定义启动的文件,可以通过配置选择启动文件的路径
+3. **资源申请**：若当前您的资源quota不能满足您的应用需求,也可以填写硬件资源申请表单进行 [申请获取](https://openxlab.org.cn/apps/apply-hardware)
+ * 如需部署 InternLM2-7b 模型建议申请 8vCPU 32GB Nvidia A10 24GB 规格资源
+ * 如需部署 InternLM2-20b 模型建议申请 12vCPU 48GB Nvidia A100 40GB 规格资源
+4. **环境变量配置**：若您有不方便在代码中暴露的变量信息,可通过高级配置中的环境变量进行配置 
+
