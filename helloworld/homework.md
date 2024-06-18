@@ -12,3 +12,39 @@
 - 熟悉 `huggingface` 下载功能，使用 `huggingface_hub` python 包，下载 `InternLM2-Chat-7B` 的 `config.json` 文件到本地（需截图下载过程）
 - 完成 `浦语·灵笔2` 的 `图文创作` 及 `视觉问答` 部署（需截图）
 - 完成 `Lagent` 工具调用 `数据分析` Demo 部署（需截图）
+
+
+
+
+## 部署实战营优秀作品 `八戒-Chat-1.8B` 模型
+
+
+```bash
+conda activate demo
+```
+
+使用 `git` 命令来获得仓库内的 Demo 文件：
+```bash
+cd /root/
+git clone https://gitee.com/InternLM/Tutorial -b camp2
+# git clone https://github.com/InternLM/Tutorial -b camp2
+cd /root/Tutorial
+```
+
+在 `Web IDE` 中执行 `bajie_download.py`：
+
+```bash
+python /root/Tutorial/helloworld/bajie_download.py
+```
+
+待程序下载完成后，输入运行命令：
+
+```bash
+streamlit run /root/Tutorial/helloworld/bajie_chat.py --server.address 127.0.0.1 --server.port 6006
+```
+
+从本地使用 ssh 连接 studio 端口
+```bash
+# 将下方端口号 36047 替换成自己的端口号
+ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 36047
+```
