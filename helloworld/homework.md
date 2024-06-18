@@ -48,7 +48,32 @@ ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 36047
 
 ## Latent 智能体
 
+最简单的方式是你有模型和算力，可以直接使用 `Lagent` 的 `Web Demo`。(没有的时候, 调用 api_serve 服务, 见 [link](../agent/homework.md))
+
 ```bash
+git clone https://gitee.com/internlm/lagent.git
+# git clone https://github.com/internlm/lagent.git
+cd /root/demo/lagent
+git checkout 581d9fb8987a5d9b72bb9ebd37a95efd47d479ac
+pip install -e . # 源码安装
+
+```
+
+
+```bash
+cd /root/demo/lagent
+ln -s /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-7b /root/models/internlm2-chat-7b
+```
+打开 lagent 路径下 examples/internlm2_agent_web_demo_hf.py 文件，并修改对应位置 (71行左右) 代码：
+
+```python
+# 其他代码...
+model_path = st.sidebar.text_input('模型路径：', value='/root/models/internlm2-chat-7b')
+# 其他代码...
+```
+
+```bash
+conda activate demo
 streamlit run /root/demo/lagent/examples/internlm2_agent_web_demo_hf.py --server.address 127.0.0.1 --server.port 6006
 ```
 
@@ -59,3 +84,5 @@ ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 36047
 ```
 
 打开 http://127.0.0.1:6006 后，键入内容示例：请解方程 2*X=1360 之中 X 的结果
+
+![web demo](images/web_demo.png)
