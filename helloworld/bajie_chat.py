@@ -220,7 +220,7 @@ def main():
     model, tokenizer = load_model()
     print('load model end.')
 
-    st.title('猪猪Chat-InternLM2')
+    st.title('猪猪 Chat-InternLM2 互动聊天')
 
     generation_config = prepare_generation_config()
 
@@ -239,6 +239,8 @@ def main():
         with st.chat_message('user'):
             st.markdown(prompt)
         real_prompt = combine_history(prompt)
+        print(f'提示词是 {real_prompt}')
+
         # Add user message to chat history
         st.session_state.messages.append({
             'role': 'user',
