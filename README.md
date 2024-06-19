@@ -92,7 +92,7 @@ A3. 我们的数据集是从个性化大语言模型领域的专业知识和有�
 - 人类反馈强化学习的时候, 也会精心设计一些信息含量特别重足的关键问题及其多个答案, 并且人工标注偏好.
 
 通过准备这些数据集, 一个有意思的观察是, 与其说我们在教会大语言模型研究"Personalized LLM Researcher Assistant",
-倒不如说我们在让自己成为最牛逼的 "Personalized LLM Researcher"
+倒不如说我们在让自己成为最牛逼的 "Personalized LLM Researcher".
 
 Q4. 这个机器人有什么作用和价值? 这个项目有什么价值和意义?
 
