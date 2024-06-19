@@ -54,6 +54,7 @@
 
 ### 2.1 环境安装
 首先我们需要先安装一个 XTuner 的源码到本地来方便后续的使用。
+
 ```bash
 # 如果你是在 InternStudio 平台，则从本地 clone 一个已有 pytorch 的环境：
 # pytorch    2.0.1   py3.10_cuda11.7_cudnn8.5.0_0
@@ -976,7 +977,7 @@ xtuner chat /root/ft/final_model --prompt-template internlm2_chat
 我们可以通过一些简单的测试来看看微调后的模型的能力。
 > 假如我们想要输入内容需要在输入文字后敲击两下回车，假如我们想清楚历史记录需要输入 RESET，假如我们想要退出则需要输入 EXIT。
 ```
-double enter to end input (EXIT: exit chat, RESET: reset history) >>> 你是谁
+double enter to end input (EXIT: exit chat, RESET: reset history) >>> n
 
 我是剑锋大佬的小助手，内在是上海AI实验室书生·浦语的1.8B大模型哦<|im_end|>
 
