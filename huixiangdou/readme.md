@@ -177,9 +177,7 @@ sed -i '29s#.*#local_llm_path = "/root/models/internlm2-chat-7b"#' /root/huixian
 
 ```bash
 cd /root/huixiangdou && mkdir repodir
-
 git clone https://github.com/internlm/huixiangdou --depth=1 repodir/huixiangdou
-
 ```
 
 提取知识库特征，创建向量数据库。数据库向量化的过程应用到了 **LangChain** 的相关模块，默认嵌入和重排序模型调用的网易 **BCE 双语模型**，如果没有在 `config.ini` 文件中指定本地模型路径，茴香豆将自动从 **HuggingFace**  拉取默认模型。
@@ -386,7 +384,6 @@ pip install gradio==4.25.0 redis==5.0.3 flask==3.0.2 lark_oapi==1.2.4
 ```bash
 cd /root/huixiangdou
 python3 -m tests.test_query_gradio 
-
 ```
 
 此时服务器端接口已开启。如果在本地服务器使用，直接在浏览器中输入 [127.0.0.1:7860](http://127.0.0.1:7860/) ，即可进入茴香豆对话 Demo 界面。
