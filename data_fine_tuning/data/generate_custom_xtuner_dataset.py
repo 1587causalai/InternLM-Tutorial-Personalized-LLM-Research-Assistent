@@ -30,9 +30,9 @@ def create_dataset(num_samples=5):
 
 def main():
     dataset = create_dataset()
-    with open('custom_xtuner_dataset.json', 'w', encoding='utf-8') as f:
+    with open('custom_xtuner_dataset_v0.json', 'w', encoding='utf-8') as f:
         json.dump(dataset, f, ensure_ascii=False, indent=2)
-    print("Dataset generated and saved as 'custom_xtuner_dataset.json'")
+    print("Dataset generated and saved as 'custom_xtuner_dataset_v0.json'")
 
 
 if __name__ == "__main__":
