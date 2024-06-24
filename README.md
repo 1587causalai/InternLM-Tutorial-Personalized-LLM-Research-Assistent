@@ -29,14 +29,22 @@ with personalised feedback HR Kirk, B Vidgen, P Röttger, SA Hale - arXiv prepri
 
 具体来说,我们将采用以下技术框架:
 
-![Personalized LLM Research Assistent](asset/framework.jpg)
+
+![img.png](asset/tech.png)
 
 如上图所示,我们的系统由以下几个模块组成:
 
 - Dataset: 个性化大语言模型领域的专业知识和有价值的参考资料。
-- Model: 个性化大语言模型,用于回答用户提出的问题, 包括 InternLM2, Llamm3, DeepseekV2等。
-- Method: 探索多种方法, 包括 RAG, 增量预训练, SFT, 偏好学习等, 帮助模型获得领域专业知识, 成为个性化大模型领域研究助理.
+- Model: 尝试包括 InternLM2, Llamm3, DeepseekV2等在内的多种模型。
+- Method: 探索多种方法, 包括 RAG, 增量预训练, 监督微调, 偏好学习等, 帮助模型掌握领域专业知识.
 - Application: 模型评估, 推理优化, 模型部署等.
+
+Github: https://github.com/1587causalai/Personalized-LLM-Research-Assistent
+
+Model: https://openxlab.org.cn/models/detail/causalgpt/PersonalizedLLM
+
+App: https://openxlab.org.cn/apps/detail/causalgpt/PersonalizedLLM-Research-Assistant
+
 
 ### 1. Dataset
 
@@ -74,6 +82,10 @@ Q1. 为什么要开发这个机器人? 这个研究助手是为每个学者提�
 A1. 个性化大语言模型领域是一个前沿研究领域,学者们迫切需要一个可靠的工具来回答与该领域相关的专业问题。更加具体的来说,
 是我们正在进行一个个性化大语言模型的研究项目, 所以需要一个该领域的研究助理, 帮助整理文献, 写作论文, 启发思考等.
 请注意这个研究助手是专注于“个性化大语言模型”领域的专业 Agent，帮助学者在这一领域进行科研工作，而不是为每位学者提供个性化服务。
+
+如果你想要有一个具备更好隐式个性化(Implicit Personalization)的对话模型，请参考我们的姐妹项目[Implicit Personalization](https://swze06osuex.feishu.cn/docx/HX3QdYhbPovWtlxLBjncNgwenDd), 
+将会介绍如何通过提示词工程，模型微调，模型架构设计等技术手段，提升对话模型的隐式个性化。
+
 
 Q2. 直接使用茴香豆或者其他做 RAG 不就够了吗? 为什么还在考虑微调?
 
