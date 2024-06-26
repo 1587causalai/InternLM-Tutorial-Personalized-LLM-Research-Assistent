@@ -38,12 +38,6 @@
 - 9_vision_genAI：视觉生成 AI
 - extra_GPT4：GPT-4 相关内容
 
-每个主题文件夹包含：
-- notes.md：详细学习笔记
-- key_concepts.md：关键概念总结
-- questions.md：思考题和难点
-- resources/：相关论文、代码等资源
-
 ## 学习方法
 
 1. 观看李宏毅老师的课程视频并阅读相关材料。
