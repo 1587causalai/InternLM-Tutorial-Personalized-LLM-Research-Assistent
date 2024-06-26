@@ -43,13 +43,10 @@
 - 0_course_intro：课程介绍和总体框架
 - 1_intro_to_genAI：生成式 AI 概述
 - 2_prompt_engineering：提示工程技术
-- 3_AI_agents：AI 代理
-- 4_generative_strategies：生成策略
-- 5_deep_learning_and_transformer：深度学习和 Transformer 架构
-- 6_LLM_training：大型语言模型训练
-- 7_evaluation_and_ethics：评估方法和伦理考量
-- 8_explainability：可解释性研究
-- 9_vision_genAI：视觉生成 AI
+- 3_LLM_training：大型语言模型训练
+- 4_evaluation_and_ethics：评估方法和伦理考量
+- 5_explainability：可解释性研究
+- 6_vision_genAI：视觉生成 AI
 - extra_GPT4：GPT-4 相关内容
 
 ## 学习方法
