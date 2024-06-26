@@ -4,6 +4,9 @@
 
 结合[书生·浦语参大模型实战营](https://openxlab.org.cn/models/InternLM/subject)的内容，系统化学习李宏毅老师 2024 年[《生成式人工智能导论》课程](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)。
 
+- github: https://github.com/InternLM/Tutorial
+- 学员手册：https://aicarrier.feishu.cn/wiki/KamPwGy0SiArQbklScZcSpVNnTb
+
 ## 项目概述
 
 本仓库旨在通过结合理论学习和实践应用，全面深入地理解生成式 AI 的核心概念、最新技术和实际应用。我们将：

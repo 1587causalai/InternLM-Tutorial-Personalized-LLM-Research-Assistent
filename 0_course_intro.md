@@ -2,8 +2,8 @@
 
 [课程主页](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)， [slide](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pdf)
 
+[浦语参大模型实战营的内容](https://openxlab.org.cn/models/InternLM/subject)和[算力平台](https://studio.intern-ai.org.cn/)
 
-80分钟快速了解大语言模型 [slide](https://drive.google.com/file/d/1QxQz3cjJPjwE4PfO5eXtnj736jAZPK1P/view) [video](https://www.youtube.com/watch?v=wG8-IUtqu-s&feature=youtu.be)
 
 # 生成式人工智慧导论 - 课程介绍
 
@@ -20,11 +20,13 @@
 3. 生成式AI与传统机器学习的区别
 4. 模型参数数量的影响和历史发展
 
-## 课程结构
+## 课程结构和作业
 
 - 理论讲解：最新研究论文和概念
 - 实践体验：逐步增加难度的作业
 - 创新应用：鼓励使用生成式AI完成作业
+
+我们将会使用[浦语参大模型实战营的内容](https://openxlab.org.cn/models/InternLM/subject)和[算力平台](https://studio.intern-ai.org.cn/)作为实践基础，帮助学员更好地理解理论知识。
 
 ## 学习建议
 
