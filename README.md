@@ -48,6 +48,7 @@
 
 - [李宏毅老师课程官方页面](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
 - [书生·浦语参大模型实战营](https://openxlab.org.cn/models/InternLM/subject)
+- [快速课程笔记](https://swze06osuex.feishu.cn/docx/CNo1dz9LGoCyRDxFKABcUVbcnfb?from=from_copylink)
 
 ## 贡献
 
