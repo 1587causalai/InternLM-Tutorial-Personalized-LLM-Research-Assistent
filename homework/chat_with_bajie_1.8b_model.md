@@ -2,6 +2,8 @@
 
 ## 安装并且启动环境
 
+`pip install lmdeploy modelscope`
+
 ```bash
 conda activate lmdeploy
 ```
@@ -9,7 +11,6 @@ conda activate lmdeploy
 ## 下载模型
 
 ```python
-import os
 import os
 # 模型下载
 from modelscope.hub.snapshot_download import snapshot_download
