@@ -1,11 +1,18 @@
 # Hung-yi Lee GenAI 2024 Course Notes
 
+
+
+
 ## 项目简介
 
 结合[书生·浦语参大模型实战营](https://openxlab.org.cn/models/InternLM/subject)的内容，系统化学习李宏毅老师 2024 年[《生成式人工智能导论》课程](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)。
 
 - github: https://github.com/InternLM/Tutorial/tree/camp2
 - 学员手册：https://aicarrier.feishu.cn/wiki/KamPwGy0SiArQbklScZcSpVNnTb
+
+```
+学习李宏毅教授的生成式AI理论课程，并结合书生浦语大模型的实践操作，为未来在AI领域的深入学习和应用打下坚实基础。
+```
 
 ## 项目概述
 
