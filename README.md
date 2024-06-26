@@ -1,6 +1,8 @@
 # Hung-yi Lee GenAI 2024 Course Notes
 
-
+```prompt
+我正在学习李宏毅教授的生成式AI理论课程，并结合书生浦语大模型的实践操作，为未来在GenAI领域的深入研究和应用打下坚实基础。
+```
 
 
 ## 项目简介
@@ -10,9 +12,11 @@
 - github: https://github.com/InternLM/Tutorial/tree/camp2
 - 学员手册：https://aicarrier.feishu.cn/wiki/KamPwGy0SiArQbklScZcSpVNnTb
 
-```
-学习李宏毅教授的生成式AI理论课程，并结合书生浦语大模型的实践操作，为未来在AI领域的深入学习和应用打下坚实基础。
-```
+
+
+这个项目的意义在于，展示一个学生的角色，去学习生成式AI的理论知识，同时也要参与实践操作，最终达到对生成式AI的全面理解。请注意：
+- 本项目**不会**全面完整的梳理李宏毅老师的课程内容，仅仅是记录部分有意思的关键知识点，尤其关心是合实践操作来理解课程内容。
+
 
 ## 项目概述
 
