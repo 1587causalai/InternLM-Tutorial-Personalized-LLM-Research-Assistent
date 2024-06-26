@@ -4,7 +4,7 @@
 
 结合[书生·浦语参大模型实战营](https://openxlab.org.cn/models/InternLM/subject)的内容，系统化学习李宏毅老师 2024 年[《生成式人工智能导论》课程](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)。
 
-- github: https://github.com/InternLM/Tutorial
+- github: https://github.com/InternLM/Tutorial/tree/camp2
 - 学员手册：https://aicarrier.feishu.cn/wiki/KamPwGy0SiArQbklScZcSpVNnTb
 
 ## 项目概述
