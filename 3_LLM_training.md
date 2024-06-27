@@ -45,3 +45,8 @@
 [2] Zhou, D., Shi, B., Chen, C., Zhang, Y., & Yu, N. (2023). Less is more for alignment: Refining language models with limited data. arXiv preprint arXiv:2310.14303.
 
 [3] Karpathy, A. (2023). State of GPT. [YouTube Video]. https://www.youtube.com/watch?v=bZQun8Y4L2A
+
+
+```prompt
+然后以我的视角和风格来整理成一个完整笔记吧。
+```
