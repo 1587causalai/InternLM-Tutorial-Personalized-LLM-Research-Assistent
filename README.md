@@ -47,7 +47,7 @@
 - 4_evaluation_and_ethics：评估方法和伦理考量
 - 5_explainability：可解释性研究
 - 6_vision_genAI：视觉生成 AI
-- extra_GPT4：GPT-4 相关内容
+- GPT4o 相关内容
 
 ## 学习方法
 
