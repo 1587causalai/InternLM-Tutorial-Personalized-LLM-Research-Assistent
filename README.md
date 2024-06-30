@@ -4,20 +4,17 @@
 我正在学习李宏毅教授的生成式AI理论课程，并结合书生浦语大模型的实践操作，为未来在GenAI领域的深入研究和应用打下坚实基础。
 ```
 
-
 ## 项目简介
 
-结合[书生·浦语参大模型实战营](https://openxlab.org.cn/models/InternLM/subject)的内容，系统化学习李宏毅老师 2024 年[《生成式人工智能导论》](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php) 课程。
-
+结合[书生·浦语参大模型实战营](https://openxlab.org.cn/models/InternLM/subject)的内容，系统化学习李宏毅老师 2024
+年[《生成式人工智能导论》](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php), 常用资料链接：
+- [B站课程视频](https://www.bilibili.com/video/BV1BJ4m1e7g8?p=2&vd_source=d3d6c6260e5259a5e1b8b098679a13da)
 - github: https://github.com/InternLM/Tutorial/tree/camp2
 - 学员手册：https://aicarrier.feishu.cn/wiki/KamPwGy0SiArQbklScZcSpVNnTb
-- 课程B站视频：https://www.bilibili.com/video/BV1Qo4y1d7ZV
-
-
 
 这个项目的意义在于，展示一个学生的角色，去学习生成式AI的理论知识，同时也要参与实践操作，最终达到对生成式AI的全面理解。请注意：
-- 本项目**不会**全面完整的梳理李宏毅老师的课程内容，仅仅是记录部分有意思的关键知识点，尤其关心是合实践操作来理解课程内容。
 
+- 本项目**不会**全面完整的梳理李宏毅老师的课程内容，仅仅是记录部分有意思的关键知识点，尤其关心是合实践操作来理解课程内容。
 
 ## 项目概述
 
