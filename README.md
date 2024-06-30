@@ -7,10 +7,11 @@
 
 ## 项目简介
 
-结合[书生·浦语参大模型实战营](https://openxlab.org.cn/models/InternLM/subject)的内容，系统化学习李宏毅老师 2024 年[《生成式人工智能导论》课程](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)。
+结合[书生·浦语参大模型实战营](https://openxlab.org.cn/models/InternLM/subject)的内容，系统化学习李宏毅老师 2024 年[《生成式人工智能导论》](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php) 课程。
 
 - github: https://github.com/InternLM/Tutorial/tree/camp2
 - 学员手册：https://aicarrier.feishu.cn/wiki/KamPwGy0SiArQbklScZcSpVNnTb
+- 课程B站视频：https://www.bilibili.com/video/BV1Qo4y1d7ZV
 
 
 
@@ -46,7 +47,7 @@
 - 3_LLM_training：大型语言模型训练
 - 4_evaluation_and_ethics：评估方法和伦理考量
 - 5_explainability：可解释性研究
-- 6_vision_genAI：视觉生成 AI
+- 6_genAI：多模态大模型
 - GPT4o 相关内容
 
 ## 学习方法
