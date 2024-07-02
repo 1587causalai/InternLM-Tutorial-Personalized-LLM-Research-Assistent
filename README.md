@@ -38,14 +38,15 @@
 
 ## 内容结构
 
-- 0_course_intro：课程介绍和总体框架
-- 1_intro_to_genAI：生成式 AI 概述
-- 2_prompt_engineering：提示工程技术
-- 3_LLM_training：大型语言模型训练
-- 4_evaluation_and_ethics：评估方法和伦理考量
-- 5_explainability：可解释性研究
-- 6_genAI：多模态大模型
-- GPT4o 相关内容
+- [0_course_intro](0_course_intro.md)：课程介绍和总体框架
+- [1_intro_to_genAI](1_intro_to_genAI.md)：生成式 AI 概述
+- [2_prompt_engineering](2_prompt_engineering.md)：提示工程技术
+- [3_LLM_training](3_LLM_training.md)：大型语言模型训练
+- [4_evaluation_and_ethics](4_evaluation_and_ethics.md)：评估方法和伦理考量
+- [5_explainability](5_explainability.md)：可解释性研究
+- [6_genAI](6_genAI.md)：多模态大模型
+- [GPT4o](GPT4o.md) 
+
 
 ## 学习方法
 
