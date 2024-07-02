@@ -50,6 +50,5 @@
 [3] Karpathy, A. (2023). State of GPT. [YouTube Video]. https://www.youtube.com/watch?v=bZQun8Y4L2A
 
 
-```prompt
-然后以我的视角和风格来整理成一个完整笔记吧。
-```
+
+

@@ -118,17 +118,6 @@ arXiv:2302.02083.
 3. Johnson, M., & Liang, P. (2023). Jailbreak: Attempting to Persuade Language Models. *arXiv preprint arXiv:2401.06373*. Retrieved from [https://arxiv.org/abs/2401.06373](https://arxiv.org/abs/2401.06373)
 
 
-# Primitive prompts
-
-```
-行，你重构一下我的笔记，有一个重要的点你一定要记住, 笔记中涉及的内容，你要有专业参考文献的引用。
-
-目前有几个地方不太满意:
-1) 我希望你以你我的口吻视角和风格来重构这个笔记。
-2) 有诸多的细节和逻辑，不符合我的预期。
-  -  评估方法的多样性部分：我的核心诉求就是要把模型能力评估的本质做法说清楚
-  - 
-```
 
 
 
