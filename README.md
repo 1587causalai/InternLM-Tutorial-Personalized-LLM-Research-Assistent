@@ -10,7 +10,7 @@
 - github: https://github.com/InternLM/Tutorial/tree/camp2
 - 学员手册：https://aicarrier.feishu.cn/wiki/KamPwGy0SiArQbklScZcSpVNnTb
 
-这个项目的意义在于，展示一个学生的角色，去学习生成式AI的理论知识，同时也要参与实践操作，最终达到对生成式AI的全面理解。请注意：
+这个项目的意义在于，展示一个学生的角色(**借助Claude&GPT的帮助**)，去学习生成式AI的理论知识，同时也要参与实践操作，最终达到对生成式AI的全面理解。请注意：
 
 - 本项目**不会**全面完整的梳理李宏毅老师的课程内容，仅仅是记录部分有意思的关键知识点，尤其关心是合实践操作来理解课程内容。
 
