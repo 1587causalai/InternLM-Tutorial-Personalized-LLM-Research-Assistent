@@ -4,7 +4,10 @@
 
 李宏毅老师把整个训练过程比喻成文字接龙，这个比喻简直绝了！看看这个基本框架：
 
-![img.png](imgs/w3_1.png)
+<div style="display: flex; justify-content: center;">
+  <img src="imgs/w3_1.png" alt="img1" style="width: 45%; margin-right: 10px;"/>
+  <img src="imgs/w3_2.png" alt="img2" style="width: 45%;"/>
+</div>
 
 整个过程分三个阶段：pretrain, SFT, RLHF。每一步都是在为下一步打基础，就像堆积木一样，一层比一层高级。
 
