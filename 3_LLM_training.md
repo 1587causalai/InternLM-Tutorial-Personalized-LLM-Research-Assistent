@@ -52,3 +52,7 @@
 
 
 
+# 作业
+
+- [quick start for SFT](https://github.com/AXYZdong/AMchat/blob/main/plus/02-InternLM2-Math-Plus-7B%20%E5%BE%AE%E8%B0%83.md)
+- [quick start for DPO]()
