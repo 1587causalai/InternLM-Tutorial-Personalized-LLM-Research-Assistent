@@ -32,14 +32,14 @@ AI）是一种能够产生**复杂有结构**的物件的机器系统。这里�
 
 这课程用一种非常漂亮的逻辑讲述梳理了经典图像生产方法：
 <div style="display: flex; justify-content: space-between;">
-  <img src="imgs/w6_2.png" alt="img1" style="width: 50%;"/>
-  <img src="imgs/w6_3.png" alt="img2" style="width: 50%;"/>
+  <img src="imgs/w6_2.png" alt="img1" style="width: 48%;"/>
+  <img src="imgs/w6_3.png" alt="img2" style="width: 48%;"/>
 </div>
 
 特别是对VAE中将输入编码为高斯噪声的解释，让我对这个概念有了新的理解。 视频生产领域的佼佼者如何生成：
 <div style="display: flex; justify-content: space-between;">
-  <img src="imgs/w6_5.png" alt="img1" style="width: 50%;"/>
-  <img src="imgs/w6_4.png" alt="img2" style="width: 50%;"/>
+  <img src="imgs/w6_5.png" alt="img1" style="width: 48%;"/>
+  <img src="imgs/w6_4.png" alt="img2" style="width: 48%;"/>
 </div>
 
 此外，还有许多印象深刻的内容，比如说：
