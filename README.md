@@ -27,7 +27,7 @@
 ## 🔥News
 
 
-- [2024/07/04] 参考 https://github.com/shibing624/MedicalGPT 完成模型 IPT, SFT, RLFT pipeline。
+- [2024/07/04] 参考[MedicalGPT](https://github.com/shibing624/MedicalGPT)完成模型训练(IPT/SFT/RLHF)流程。
 - [2024/07/02] 李宏毅老师的课程课程笔记基本完成。
 
 
