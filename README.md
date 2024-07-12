@@ -11,8 +11,9 @@
 
 通过这种理论与实践相结合的方法，我们旨在为进入这个快速发展的领域奠定坚实的基础。 常用资料链接：
 - [B站课程视频](https://www.bilibili.com/video/BV1BJ4m1e7g8?p=2&vd_source=d3d6c6260e5259a5e1b8b098679a13da)
-- github: https://github.com/InternLM/Tutorial/tree/camp2
-- 学员手册：https://aicarrier.feishu.cn/wiki/KamPwGy0SiArQbklScZcSpVNnTb
+- github: https://github.com/InternLM/Tutorial/tree/camp3
+- 学员手册：https://aicarrier.feishu.cn/wiki/XBO6wpQcSibO1okrChhcBkQjnsf
+- 个人笔记 [飞书文档](https://swze06osuex.feishu.cn/wiki/QEj6w26WsigOyJkRxWyck6qVnQe?fromScene=spaceOverview) & [github](https://github.com/1587causalai/InternLM-Tutorial-Personalized-LLM-Research-Assistent).
 
 ## 项目意义
 
@@ -26,7 +27,7 @@
 
 ## 🔥News
 
-
+- [2024/07/12] 完成实战营入门岛作业 [github](https://github.com/1587causalai/InternLM-Tutorial-Personalized-LLM-Research-Assistent)
 - [2024/07/04] 参考[MedicalGPT](https://github.com/shibing624/MedicalGPT)完成模型训练(IPT/SFT/RLHF)流程。
 - [2024/07/02] 李宏毅老师的课程课程笔记基本完成。
 
